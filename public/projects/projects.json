@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "huagee", "name": "华歌尔", "order": 1,
+      "path": "/projects/huagee/processed/",
+      "rawPath": "public/projects/huagee",
+      "nameParts": ["投放形式","产品线","产品类型","笔记简称","投放人群","内容方向","优化目标"]
+    },
+    {
+      "id": "xiaozi", "name": "晓姿", "order": 2,
+      "path": "/projects/xiaozi/processed/",
+      "rawPath": "public/projects/xiaozi",
+      "nameParts": ["投放形式","产品简称","产品类型","投放人群"]
+    },
+    {
+      "id": "xiaoxiandun", "name": "小仙炖", "order": 3,
+      "path": "/projects/xiaoxiandun/processed/",
+      "rawPath": "public/projects/xiaoxiandun",
+      "nameParts": ["投放形式","产品简称","产品类型","投放人群","来源"]
+    }
+  ]
+}
